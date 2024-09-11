@@ -1,0 +1,5 @@
+spring:
+  kafka:
+    streams:
+      application-id: kafka-streams-sample
+      bootstrap-servers: http://localhost:29092
